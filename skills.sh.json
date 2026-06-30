@@ -1,0 +1,116 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "AIgile SDLC Core: Foundation and Context",
+      "description": "Global behavior, skill discovery, documentation maintenance, and diagrams for AIgile SDLC work.",
+      "skills": [
+        "global-rules",
+        "context-engineering",
+        "md-docs",
+        "mermaid-diagrams",
+        "excalidraw-diagram-generator"
+      ]
+    },
+    {
+      "title": "AIgile SDLC Core: Ideation and Specification",
+      "description": "Skills for shaping ideas into scoped, testable, agent-ready work.",
+      "skills": [
+        "brainstorming",
+        "grill-me",
+        "triage"
+      ]
+    },
+    {
+      "title": "AIgile SDLC Core: Architecture and Refactoring",
+      "description": "Skills for improving module depth, locality, maintainability, and structural quality.",
+      "skills": [
+        "improve-codebase-architecture",
+        "thermo-nuclear-code-quality-review"
+      ]
+    },
+    {
+      "title": "AIgile SDLC Core: Planning and Execution",
+      "description": "Skills for turning approved specs into executable plans, isolated workspaces, and verified task execution.",
+      "skills": [
+        "writing-plans",
+        "executing-plans",
+        "using-git-worktrees",
+        "verification-before-completion"
+      ]
+    },
+    {
+      "title": "AIgile SDLC Core: Implementation and Debugging",
+      "description": "Skills for documented implementation, interface and UI delivery, test-first execution, and root-cause debugging.",
+      "skills": [
+        "source-driven-development",
+        "doubt-driven-development",
+        "frontend-ui-engineering",
+        "api-and-interface-design",
+        "test-driven-development",
+        "systematic-debugging"
+      ]
+    },
+    {
+      "title": "AIgile SDLC Core: Verification and Browser Reality",
+      "description": "Skills for proving correctness in real browser and command-line environments before claiming completion.",
+      "skills": [
+        "browser-testing-with-devtools",
+        "verification-before-completion"
+      ]
+    },
+    {
+      "title": "AIgile SDLC Core: Delivery",
+      "description": "Skills for review, pull requests, branch finishing, and delivery documentation.",
+      "skills": [
+        "requesting-code-review",
+        "receiving-code-review",
+        "principal-sre-reviewer",
+        "create-pr",
+        "finishing-a-development-branch"
+      ]
+    },
+    {
+      "title": "Supporting: Communication",
+      "description": "Skills for internal communication and prose cleanup.",
+      "skills": [
+        "internal-comms",
+        "fuck-slop",
+        "frontend-slides"
+      ]
+    },
+    {
+      "title": "Supporting: Token Control",
+      "description": "Skills for fresh context, compressed interaction, and session compaction.",
+      "skills": [
+        "cocoindex-code",
+        "caveman",
+        "handoff"
+      ]
+    },
+    {
+      "title": "Supporting: Skill Authoring and Misc",
+      "description": "Skills for creating new Agent Skills, learning support, and domain-specific workflows such as Terraform.",
+      "skills": [
+        "skill-creator",
+        "teach",
+        "terraform-style-guide",
+        "refactor-module"
+      ]
+    },
+    {
+      "title": "Supporting: SRE, Ops, and Systems Engineering",
+      "description": "Skills for system design, postmortems, observability, automation, performance, and security.",
+      "skills": [
+        "system-design-specialist",
+        "observability-and-instrumentation",
+        "postmortem-writer",
+        "ci-cd-and-automation",
+        "security-and-hardening",
+        "performance-optimization",
+        "shipping-and-launch"
+      ]
+    }
+  ]
+}
